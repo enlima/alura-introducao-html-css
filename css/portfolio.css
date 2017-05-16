@@ -1,0 +1,14 @@
+.bloco-portfolio {
+	width: 45%;
+	background-color: #FAFFFC;
+	border: 8px solid black;
+	padding: 16px;
+	margin-right: 16px;
+	margin-bottom: 16px;
+	box-sizing: border-box;
+	display: inline-block;
+}
+
+.bloco-portfolio img {
+	width: 100%;
+}
